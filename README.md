@@ -8,6 +8,8 @@
 * Changes
     * Workers are now handled only non-main thread (with JobIntentService)
     * Code refactoring 
+* Settings
+    * Survey will be triggered after 20 min. + 20 flex min. from the time when you are into a sedentary state.
 
 ### v1.0.2
 * Apks
