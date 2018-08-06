@@ -1,6 +1,14 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v1.0.3
+* Apks
+    * [Debug](./debug/kaist.iclab.abc-v1.0.3-debug.apk)
+    * [Release](./release/kaist.iclab.abc-v1.0.3-release.apk)
+* Changes
+    * Workers are now handled only non-main thread (with JobIntentService)
+    * Code refactoring 
+
 ### v1.0.2
 * Apks
     * [Debug](./debug/kaist.iclab.abc-v1.0.2-debug.apk)
