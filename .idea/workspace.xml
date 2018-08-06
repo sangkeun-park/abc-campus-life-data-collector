@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/howto/all_esm_list.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/app_permission.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/code_verify.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/create_account.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/esm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/howto.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/setting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howto/sign_in.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howto/empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howto/esm_trigger.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/access.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/howto/access.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/menu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/howto/menu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/noti.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/howto/noti.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/permission.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/howto/permission.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/signin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/howto/start.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/output.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,41 +19,42 @@
     <session id="52789509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="jpg" value="3" />
-          <entry key="json" value="1" />
-          <entry key="md" value="2" />
+          <entry key="jpg" value="4" />
+          <entry key="json" value="2" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="3" />
-          <entry key="JSON" value="1" />
-          <entry key="Markdown" value="3" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="MD" value="2" />
-          <entry key="md" value="4062" />
-          <entry key="txt" value="9" />
+          <entry key="md" value="4927" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="4064" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Markdown" value="4929" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -72,22 +63,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="Gfm" />
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="704">
-                <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/howto/howto.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <first_editor relative-caret-position="598">
+                <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -137,6 +117,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,24 +145,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533564243517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533564927694" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Workspace\Projects\abc-campus-life-data-collector\howto" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Workspace\Projects\abc-campus-life-data-collector\howto" />
     </key>
   </component>
@@ -234,7 +214,8 @@
       <workItem from="1533287132774" duration="9000" />
       <workItem from="1533291878183" duration="760000" />
       <workItem from="1533294042678" duration="12000" />
-      <workItem from="1533538640888" duration="3300000" />
+      <workItem from="1533538640888" duration="3986000" />
+      <workItem from="1533564979433" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.0.3">
       <created>1533561711886</created>
@@ -243,17 +224,24 @@
       <option name="project" value="LOCAL" />
       <updated>1533561711886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add guidelines">
+      <created>1533564256314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533564256314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5067000" />
+    <option name="totallyTimeSpent" value="7229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,6 +259,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="GfmBrowser" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,20 +279,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v 1.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 1.0.3" />
+    <MESSAGE value="Add guidelines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add guidelines" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/release/output.json" />
-    <entry file="file://$PROJECT_DIR$/howto/howto.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -313,11 +292,29 @@
     <entry file="file://$PROJECT_DIR$/howto/setting.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/howto/howto.MD">
+      <provider editor-type-id="Gfm" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="704">
-            <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/release/output.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/howto/empty.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="Gfm" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="598">
+            <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
