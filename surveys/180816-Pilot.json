@@ -1,0 +1,81 @@
+{
+  "title": "일어날 시간입니다.",
+  "message": "일어나서 1분간 움직여주세요.",
+  "policy": {
+    "initialDelayInDays": 0,
+    "daysOfWeek": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY"
+    ],
+    "dailySurveyTime": {
+      "from": {
+        "hour": 9,
+        "minute": 0
+      },
+      "to": {
+        "hour": 21,
+        "minute": 0
+      }
+    },
+    "minInterval": {
+      "value": 60,
+      "unit": "MINUTES"
+    },
+    "flexInterval": {
+      "value": 0,
+      "unit": "MINUTES"
+    },
+    "triggerEvent": "ENTER_STILL",
+    "cancelEvent": "EXIT_STILL",
+    "timeout": {
+      "value": 5,
+      "unit": "MINUTES"
+    },
+    "timeoutPolicyType": "ALTERNATIVE_TEXT"
+  },
+  "questions": [
+    {
+      "type": "SINGLE_CHOICE",
+      "shouldAnswers": true,
+      "text": "일어나서 1분간 실제로 움직일 수 있나요?",
+      "options": [
+        "예",
+        "아니오"
+      ],
+      "altText": "일어나서 1분간 실제로 움직이셨나요?"
+    },
+    {
+      "type": "SINGLE_CHOICE",
+      "shouldAnswers": true,
+      "text": "일어나서 1분간 움직일 수 있는 상황/환경인가요?",
+      "options": [
+        "예",
+        "아니오"
+      ],
+      "altText": "일어나서 1분간 움직일 수 있는 상황/환경이었나요?"
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": true,
+      "text": "위 두 질문에 대하여 왜 그렇게 응답하셨는지 이유를 써주세요.",
+      "options": [
+        "예",
+        "아니오"
+      ]
+    },
+    {
+      "type": "MULTIPLE_TEXTS",
+      "shouldAnswers": true,
+      "text": "현재 상황에 대하여 설명해주세요.",
+      "options": [
+        "어디에 계신가요? (예. 창의관 강의실, 회의실, 카페 등)",
+        "무얼 하고 계신가요? (예. 논문 읽기, 회의 중 등)",
+        "누구와 있으신가요? (예. 수강생, 동료, 교수님 등)"
+      ],
+      "altText": "알림이 도착했을 때의 상황에 대하여 설명해주세요."
+    }
+  ]
+}
