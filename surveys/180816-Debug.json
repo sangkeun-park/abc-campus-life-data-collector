@@ -21,7 +21,7 @@
       }
     },
     "minInterval": {
-      "value": 2,
+      "value": 20,
       "unit": "MINUTES"
     },
     "flexInterval": {
