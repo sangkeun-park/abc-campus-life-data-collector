@@ -40,7 +40,7 @@
     {
       "type": "SINGLE_CHOICE",
       "shouldAnswers": true,
-      "text": "일어나서 1분간 실제로 움직일 수 있나요?",
+      "text": "일어나서 1분간 움직여주세요.",
       "options": [
         "예",
         "아니오"
