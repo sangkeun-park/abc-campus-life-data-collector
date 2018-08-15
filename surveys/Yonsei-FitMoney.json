@@ -1,0 +1,98 @@
+{
+  "title": "설문이 도착했습니다.",
+  "message": "설문에 응답해주세요.",
+  "policy": {
+    "initialDelayInDays": 0,
+    "daysOfWeek": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "dailySurveyTime": {
+      "from": {
+        "hour": 0,
+        "minute": 0
+      },
+      "to": {
+        "hour": 23,
+        "minute": 59
+      }
+    },
+    "minInterval": {
+      "value": 7,
+      "unit": "DAYS"
+    },
+    "flexInterval": {
+      "value": 0,
+      "unit": "MINUTES"
+    },
+    "triggerEvent": "NONE",
+    "cancelEvent": "NONE",
+    "timeout": {
+      "value": 3,
+      "unit": "DAYS"
+    },
+    "timeoutPolicyType": "DISABLED"
+  },
+  "questions": [
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "피트머니의 \"목표 설정 방식\"이 지난 1주간 신체 활동에 얼마나 영향을 미쳤습니까? (1: 전혀 영향을 주지 않음, 3: 보통, 5: 매우 영향을 줌)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "피트머니의 \"수행에 대한 정보(챌린지 달성 일수/도장)\"이 지난 1주간 신체 활동에 얼마나 영향을 미쳤습니까? (1: 전혀 영향을 주지 않음, 3: 보통, 5: 매우 영향을 줌)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "피트머니의 \"챌린지 달성 시 등장하는 메시지\"가 지난 1주간 신체 활동에 얼마나 영향을 미쳤습니까? (1: 전혀 영향을 주지 않음, 3: 보통, 5: 매우 영향을 줌)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "캐시워크의 \"챌린지 달성 시 터지는 폭죽\"이 지난 1주간 신체 활동에 얼마나 영향을 미쳤습니까? (1: 전혀 영향을 주지 않음, 3: 보통, 5: 매우 영향을 줌)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": false,
+      "text": "그 외에 지난 1주간 신체 활동에 영향을 준 피트머니의 기능을 자유롭게 적어주세요."
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": false,
+      "text": "지난 1주간 신체 활동에 영향을 준 앱(피트머니) 외적 요인이 있다면 자유롭게 적어주세요."
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 1주간 \"피트머니\"의 사용에 얼마나 만족하십니까? (1: 매우 불만족, 3: 보통, 5: 매우 만족)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": false,
+      "text": "\"피트머니\"가 개선되었으면 하는 점은 무엇입니까?"
+    }
+  ]
+}

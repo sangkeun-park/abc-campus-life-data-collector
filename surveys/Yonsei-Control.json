@@ -1,0 +1,48 @@
+{
+  "title": "설문이 도착했습니다.",
+  "message": "설문에 응답해주세요.",
+  "policy": {
+    "initialDelayInDays": 0,
+    "daysOfWeek": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "dailySurveyTime": {
+      "from": {
+        "hour": 0,
+        "minute": 0
+      },
+      "to": {
+        "hour": 23,
+        "minute": 59
+      }
+    },
+    "minInterval": {
+      "value": 7,
+      "unit": "DAYS"
+    },
+    "flexInterval": {
+      "value": 0,
+      "unit": "MINUTES"
+    },
+    "triggerEvent": "NONE",
+    "cancelEvent": "NONE",
+    "timeout": {
+      "value": 3,
+      "unit": "DAYS"
+    },
+    "timeoutPolicyType": "DISABLED"
+  },
+  "questions": [
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": false,
+      "text": "지난 1주간 신체 활동에 영향을 준 요인이 있다면 자유롭게 적어주세요."
+    }
+  ]
+}
