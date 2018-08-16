@@ -2,7 +2,7 @@
   "title": "설문이 도착했습니다.",
   "message": "설문에 응답해주세요.",
   "policy": {
-    "initialDelayInDays": 0,
+    "initialDelayInDays": 7,
     "daysOfWeek": [
       "MONDAY",
       "TUESDAY",
@@ -14,7 +14,7 @@
     ],
     "dailySurveyTime": {
       "from": {
-        "hour": 0,
+        "hour": 10,
         "minute": 0
       },
       "to": {
