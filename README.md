@@ -1,6 +1,21 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.1
+* Apks
+    * [Debug](./debug/kaist.iclab.abc-v2.0.1-debug.apk)
+    * [Release](./release/kaist.iclab.abc-v2.0.1-release.apk)
+* Bug fixes
+    * App crashes when going to **All Experiments** and **Experiments** for < Android API 24
+    * In responding to a survey, a circular button keeps animating even when **not save** is selected.
+    * Survey download fails frequently
+    * Survey interval is incorrect when there is no survey before.
+* Changes
+    * Add confirmation dialog for dropout experiment.
+* To do
+    * Add string resources for Korean
+    * Optimization by deleting unused resources and library.
+
 ### v2.0.0
 * Apks
     * [Debug](./debug/kaist.iclab.abc-v2.0.0-debug.apk)
