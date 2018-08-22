@@ -1,6 +1,7 @@
 {
   "title": "일어날 시간입니다.",
   "message": "일어나서 1분간 움직여주세요.",
+  "instruction": "메시지 도착 시간 이후 5분 이내의 상황을 기준으로 아래에 응답해주세요.",
   "policy": {
     "initialDelayInDays": 0,
     "daysOfWeek": [
