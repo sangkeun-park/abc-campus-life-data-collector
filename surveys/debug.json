@@ -88,7 +88,7 @@
     {
       "type": "SINGLE_TEXT",
       "shouldAnswers": false,
-      "text": "이미 1시간 동안 일어나신 적이 있었나요?"
+      "text": "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
     }
   ]
 }
