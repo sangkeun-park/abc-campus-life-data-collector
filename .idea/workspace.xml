@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/surveys/180827-Pilot-Debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveys/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/surveys/debug.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +47,14 @@
           <entry key="MD" value="2" />
           <entry key="json" value="2022" />
           <entry key="md" value="6072" />
-          <entry key="txt" value="251" />
+          <entry key="txt" value="264" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="2022" />
           <entry key="Markdown" value="6074" />
-          <entry key="PLAIN_TEXT" value="251" />
+          <entry key="PLAIN_TEXT" value="264" />
         </counts>
       </usages-collector>
     </session>
@@ -205,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535106931822" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535107581927" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -278,7 +276,7 @@
       <workItem from="1534738927737" duration="890000" />
       <workItem from="1534745305723" duration="1570000" />
       <workItem from="1534840449040" duration="1936000" />
-      <workItem from="1534900028527" duration="8978000" />
+      <workItem from="1534900028527" duration="9590000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.0.3">
       <created>1533561711886</created>
@@ -427,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535106722873</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Modify survey">
+      <created>1535106940894</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1535106940894</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35234000" />
+    <option name="totallyTimeSpent" value="35846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -482,9 +487,9 @@
     <MESSAGE value="Add Yonsei's surveys" />
     <MESSAGE value="Add Yonsei's debug surveys" />
     <MESSAGE value="v2.0.1" />
-    <MESSAGE value="Modify survey" />
     <MESSAGE value="v2.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.0.2" />
+    <MESSAGE value="Modify survey" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify survey" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
