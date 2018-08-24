@@ -14,7 +14,7 @@
     ],
     "dailySurveyTime": {
       "from": {
-        "hour": 0,
+        "hour": 10,
         "minute": 0
       },
       "to": {
@@ -23,8 +23,8 @@
       }
     },
     "minInterval": {
-      "value": 2,
-      "unit": "MINUTES"
+      "value": 1,
+      "unit": "DAYS"
     },
     "flexInterval": {
       "value": 0,
