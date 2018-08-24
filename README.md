@@ -1,6 +1,14 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.2
+* Apks
+    * [Release](./release/kaist.iclab.abc-v2.0.2-release.apk)
+* Bug fixes
+    * Crash when UI transition during async UI update
+* Changes
+    * Handle more survey trigger/cancel event.
+
 ### v2.0.1
 * Apks
     * [Debug](./debug/kaist.iclab.abc-v2.0.1-debug.apk)
