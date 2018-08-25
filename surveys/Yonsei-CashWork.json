@@ -73,8 +73,8 @@
     },
     {
       "type": "SINGLE_TEXT",
-      "shouldAnswers": false,
-      "text": "그 외에 지난 1주간 신체 활동에 영향을 준 캐시워크의 기능을 자유롭게 적어주세요.",
+      "shouldAnswers": true,
+      "text": "그 외에 지난 1주간 신체 활동에 영향을 준 캐시워크의 기능을 자유롭게 적어주세요(없다면 \"없음\"으로 써주세요).",
       "options": [
         "예",
         "아니오"
@@ -82,7 +82,7 @@
     },
     {
       "type": "SINGLE_TEXT",
-      "shouldAnswers": false,
+      "shouldAnswers": true,
       "text": "지난 1주간 신체 활동에 영향을 준 앱(캐시워크) 외적 요인이 있다면 자유롭게 적어주세요."
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "type": "SINGLE_TEXT",
-      "shouldAnswers": false,
+      "shouldAnswers": true,
       "text": "\"캐시워크\"가 개선되었으면 하는 점은 무엇입니까?"
     }
   ]

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveys/Yonsei-CashWork.json" beforeDir="false" afterPath="$PROJECT_DIR$/surveys/Yonsei-CashWork.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,44 +35,35 @@
           <entry key="MD" value="1" />
           <entry key="jpg" value="4" />
           <entry key="json" value="27" />
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="4" />
           <entry key="JSON" value="27" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="MD" value="2" />
-          <entry key="json" value="2037" />
-          <entry key="md" value="6072" />
-          <entry key="txt" value="264" />
+          <entry key="json" value="2059" />
+          <entry key="md" value="6148" />
+          <entry key="txt" value="277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="2037" />
-          <entry key="Markdown" value="6074" />
-          <entry key="PLAIN_TEXT" value="264" />
+          <entry key="JSON" value="2059" />
+          <entry key="Markdown" value="6150" />
+          <entry key="PLAIN_TEXT" value="277" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/surveys/180827-Pilot.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="757">
-              <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/surveys/debug.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/surveys/test.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="605">
-              <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+              <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -91,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/surveys/Yonsei-CashWork.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="789">
+              <caret line="99" column="5" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Worker.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-589">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,8 +103,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/surveys/180827-Pilot-Debug.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="92" column="3" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
+            <state relative-caret-position="494">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="Gfm" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -119,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Test.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-269">
-              <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -142,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/surveys/Yonsei-FitMoney.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="548">
@@ -159,11 +166,13 @@
       <find>워커</find>
       <find>지난 1주간</find>
       <find>입력해주세요</find>
+      <find>false</find>
     </findStrings>
     <replaceStrings>
       <replace>얼마나 영향을</replace>
       <replace>피트머니</replace>
       <replace>적어주세요</replace>
+      <replace>true</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -186,17 +195,17 @@
         <option value="$PROJECT_DIR$/surveys/Yonsei-CashWork-Test.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-Worker.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-Control.json" />
-        <option value="$PROJECT_DIR$/surveys/Yonsei-CashWork.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-LongTermTest.json" />
         <option value="$PROJECT_DIR$/surveys/180816-Pilot.json" />
         <option value="$PROJECT_DIR$/surveys/180827-Pilot-Past.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/surveys/180827-Pilot.json" />
         <option value="$PROJECT_DIR$/surveys/debug.json" />
         <option value="$PROJECT_DIR$/surveys/180827-Pilot-Debug.json" />
         <option value="$PROJECT_DIR$/surveys/test.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-Test.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-FitMoney.json" />
+        <option value="$PROJECT_DIR$/surveys/Yonsei-CashWork.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -254,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535113013098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535177198005" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -327,7 +336,7 @@
       <workItem from="1534738927737" duration="890000" />
       <workItem from="1534745305723" duration="1570000" />
       <workItem from="1534840449040" duration="1936000" />
-      <workItem from="1534900028527" duration="12079000" />
+      <workItem from="1534900028527" duration="14113000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.0.3">
       <created>1533561711886</created>
@@ -504,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535112760665</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Fixes Typos">
+      <created>1535113027125</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535113027125</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38335000" />
+    <option name="totallyTimeSpent" value="40369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -561,7 +577,8 @@
     <MESSAGE value="v2.0.1" />
     <MESSAGE value="v2.0.2" />
     <MESSAGE value="Modify survey" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify survey" />
+    <MESSAGE value="Fixes Typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes Typos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
@@ -605,28 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="Gfm" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/surveys/180827-Pilot.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="757">
           <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/surveys/180827-Pilot-Debug.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="92" column="3" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -640,14 +639,7 @@
     <entry file="file://$PROJECT_DIR$/surveys/test.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
-          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/surveys/Yonsei-CashWork.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -668,14 +660,14 @@
     <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Test.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-269">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Worker.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-589">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -683,6 +675,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
           <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveys/Yonsei-CashWork.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="99" column="5" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveys/180827-Pilot-Debug.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="Gfm" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

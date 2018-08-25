@@ -1,6 +1,13 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.2-HotFix-1
+* Apks
+    * [Release](./release/kaist.iclab.abc-v2.0.2-HotFix-1-release.apk)
+* Bug fixes
+    * Cannot download survey
+
+
 ### v2.0.2
 * Apks
     * [Release](./release/kaist.iclab.abc-v2.0.2-release.apk)
