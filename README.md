@@ -5,7 +5,8 @@
 * Apks
     * [Release](./release/kaist.iclab.abc-v2.0.2-HotFix-1-release.apk)
 * Bug fixes
-    * Cannot download survey
+    * Cannot parse survey
+        * Error in Android Kotlin Library v1.2.60.   
 
 
 ### v2.0.2
