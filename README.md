@@ -1,6 +1,15 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.3
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.3-debug.apk)
+* Bug fixes:
+    1. 설문 저장을 했음에도 다시 수정을 할 수 있는 버그
+    2. 설문 저장 이후 다시 설문을 열었을  때 이전 응답이 제대로 표시되지 않는 버그
+    3. 설문 리스트 목록이 실시간으로 업데이트 되지 않는 버그
+* Changes
+    1. 디버그 목적을 위하여 백그라운드에서 수행 되고 있는 프로세스를 서버에 업로드 하도록 변경.
+
 ### v2.0.2-HotFix-1
 * Apks
     * [Release](./release/kaist.iclab.abc-v2.0.2-HotFix-1-release.apk)
