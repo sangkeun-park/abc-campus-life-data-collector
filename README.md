@@ -1,6 +1,14 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.4
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.4-debug.apk)
+* Changes
+    1. API 23 (v6.0.0) 부터 Android Doze mode 가 적용됨에 따라, JobScheduler 및 Worker 가 제대로 동작하지 않음.
+        1. 이에 대응하기 위하여, 설문 알림은 AlarmManager.setExactAndWhileAllowIdle 으로 변경함.
+    2. 내부적인 Exception 은 ABCException 클래스를 상속함.
+    3. Drawer 에서 현재 앱 버전, 실험 참여 상태 등을 확인 할 수 있음.
+
 ### v2.0.3
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.3-debug.apk)
 * Bug fixes:
@@ -12,15 +20,14 @@
 
 ### v2.0.2-HotFix-1
 * Apks
-    * [Release](./release/kaist.iclab.abc-v2.0.2-HotFix-1-release.apk)
+    * [Download](./release/kaist.iclab.abc-v2.0.2-HotFix-1-release.apk)
 * Bug fixes
     * Cannot parse survey
         * Error in Android Kotlin Library v1.2.60.   
 
-
 ### v2.0.2
 * Apks
-    * [Release](./release/kaist.iclab.abc-v2.0.2-release.apk)
+    * [Download](./release/kaist.iclab.abc-v2.0.2-release.apk)
 * Bug fixes
     * Crash when UI transition during async UI update
 * Changes
@@ -28,8 +35,7 @@
 
 ### v2.0.1
 * Apks
-    * [Debug](./debug/kaist.iclab.abc-v2.0.1-debug.apk)
-    * [Release](./release/kaist.iclab.abc-v2.0.1-release.apk)
+    * [Download](./debug/kaist.iclab.abc-v2.0.1-debug.apk)
 * Bug fixes
     * App crashes when going to **All Experiments** and **Experiments** for < Android API 24
     * In responding to a survey, a circular button keeps animating even when **not save** is selected.
@@ -43,20 +49,17 @@
 
 ### v2.0.0
 * Apks
-    * [Debug](./debug/kaist.iclab.abc-v2.0.0-debug.apk)
-    * [Release](./release/kaist.iclab.abc-v2.0.0-release.apk)
+    * [Download](./debug/kaist.iclab.abc-v2.0.0-debug.apk)
 
 ### v1.0.3 Hotfix
 * Apks
-    * [Debug](./debug/kaist.iclab.abc-v1.0.3-HotFix-debug.apk)
-    * [Release](./release/kaist.iclab.abc-v1.0.3-HotFix-release.apk)
+    * [Download](./debug/kaist.iclab.abc-v1.0.3-HotFix-debug.apk)
 * Bug fixes
     * Crash when starting a collector without any data selected
 
 ### v1.0.3
 * Apks
-    * [Debug](./debug/kaist.iclab.abc-v1.0.3-debug.apk)
-    * [Release](./release/kaist.iclab.abc-v1.0.3-release.apk)
+    * [Download](./debug/kaist.iclab.abc-v1.0.3-debug.apk)
 * Changes
     * Workers are now handled only non-main thread (with JobIntentService)
     * Code refactoring 
@@ -65,8 +68,7 @@
 
 ### v1.0.2
 * Apks
-    * [Debug](./debug/kaist.iclab.abc-v1.0.2-debug.apk)
-    * [Release](./release/kaist.iclab.abc-v1.0.2-release.apk)
+    * [Download](./debug/kaist.iclab.abc-v1.0.2-debug.apk)
 * Changes
     * WiFi is not enabled if a user currently turns off WiFi. WiFi scanning is performed only when a user turn on WiFi.
     * Data traffic tracking is performed only when a screen is on. 
@@ -78,14 +80,12 @@
        
 
 ### v1.0.1-HotFix
-* [Debug](./debug/kaist.iclab.abc-v1.0.1-debug.apk)
+* [Download](./debug/kaist.iclab.abc-v1.0.1-debug.apk)
     * Fix: ESM scheduled time field is set to zero.
     * (Maybe) Fix: ESM interval is not properly work. 
 
 ### v1.0.1 
-* [Debug](./debug/kaist.iclab.abc-v1.0.1-debug.apk)
-* [Release](./release/kaist.iclab.abc-v1.0.1-release.apk)
-
+* [Download](./debug/kaist.iclab.abc-v1.0.1-debug.apk)
 
 ## How-To
 To be added...
