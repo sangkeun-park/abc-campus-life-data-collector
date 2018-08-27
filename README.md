@@ -3,6 +3,8 @@
 ## Versions
 ### v2.0.4
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.4-debug.apk)
+* Bug fixes:
+    * 마지막 동기화 시간이 제대로 업데이트 되지 않는 버그.
 * Changes
     1. API 23 (v6.0.0) 부터 Android Doze mode 가 적용됨에 따라, JobScheduler 및 Worker 가 제대로 동작하지 않음.
         1. 이에 대응하기 위하여, 설문 알림은 AlarmManager.setExactAndWhileAllowIdle 으로 변경함.
