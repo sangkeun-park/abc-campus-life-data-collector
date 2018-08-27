@@ -1,6 +1,11 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.5
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.5-debug.apk)
+* Bug fixes:
+    * Android API 22 에서 설문 저장 시도 시 크래쉬 나는 문제 해결.
+
 ### v2.0.4
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.4-debug.apk)
 * Bug fixes:

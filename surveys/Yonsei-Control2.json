@@ -1,0 +1,111 @@
+{
+  "title": "설문이 도착했습니다.",
+  "message": "설문에 응답해주세요.",
+  "policy": {
+    "initialDelayInDays": 7,
+    "daysOfWeek": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "dailySurveyTime": {
+      "from": {
+        "hour": 10,
+        "minute": 0
+      },
+      "to": {
+        "hour": 23,
+        "minute": 59
+      }
+    },
+    "minInterval": {
+      "value": 7,
+      "unit": "DAYS"
+    },
+    "flexInterval": {
+      "value": 0,
+      "unit": "MINUTES"
+    },
+    "triggerEvent": "NONE",
+    "cancelEvent": "NONE",
+    "timeout": {
+      "value": 3,
+      "unit": "DAYS"
+    },
+    "timeoutPolicyType": "DISABLED"
+  },
+  "questions": [
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"정크 푸드 (예. 라면, 햄버거, 피자 등)\"을 얼마나 섭취하셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"학습 활동 (과제, 예습, 복습 포함)\"을 얼마나 하셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"충동적 지출\"을 얼마나 하셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"계획한 일\"을 얼마나 완료하셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"감정(예. 짜증, 분노, 슬픔 등) 조절의 어려움\"을 얼마나 겪으셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"지나친 인터넷/스마트폰 사용\"을 얼마나 하셨나요 (1: 전혀 없음, 2: 주 1회, 3: 주 2-3회, 4: 매일, 5: 하루 1회 이상)",
+      "options": [
+        "1", "2", "3", "4", "5"
+      ]
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"음주\"를 몇 회나 하셨나요?"
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"1회 평균 음주량\"이 얼마나 되시나요? (예. 소주 1병, 맥주 500cc)"
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"운동\"을 몇 회나 하셨나요?"
+    },
+    {
+      "type": "SINGLE_TEXT",
+      "shouldAnswers": true,
+      "text": "지난 일주일 동안 \"1회 평균 운동 시간(분)\"이 얼마나 되시나요?"
+    }
+  ]
+}
