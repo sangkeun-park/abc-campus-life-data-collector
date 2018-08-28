@@ -3,7 +3,10 @@
   "message": "일어나서 1분간 움직여주세요.",
   "instruction": "알림 도착 시간 이후 5분 이내의 상황을 기준으로 아래에 응답해주세요.",
   "policy": {
-    "initialDelayInDays": 0,
+    "initialDelay": {
+      "value": 0,
+      "unit": "MINUTES"
+    },
     "daysOfWeek": [
       "MONDAY",
       "TUESDAY",
@@ -24,7 +27,7 @@
       }
     },
     "minInterval": {
-      "value": 2,
+      "value": 60,
       "unit": "MINUTES"
     },
     "flexInterval": {
@@ -88,7 +91,7 @@
     {
       "type": "SINGLE_TEXT",
       "shouldAnswers": false,
-      "text": "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
+      "text":  "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
     }
   ]
 }
