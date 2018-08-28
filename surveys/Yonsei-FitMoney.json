@@ -36,8 +36,8 @@
     "triggerEvent": "NONE",
     "cancelEvent": "NONE",
     "timeout": {
-      "value": 2,
-      "unit": "DAYS"
+      "value": 48,
+      "unit": "HOURS"
     },
     "timeoutPolicyType": "DISABLED"
   },
