@@ -3,8 +3,8 @@
   "message": "설문에 응답해주세요 (설문은 48 시간 후에 마감됩니다).",
   "policy": {
     "initialDelay": {
-      "value": 7,
-      "unit": "DAYS"
+      "value": 0,
+      "unit": "MILLISECONDS"
     },
     "daysOfWeek": [
       "MONDAY",
