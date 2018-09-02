@@ -1,6 +1,20 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.7
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.7-debug.apk)
+* Bug fixes:
+    * 실험 기간이 지났음에도 실험이 종료되지 않는 오류 해결
+    * 설문 전달이 정확한 타이밍이 가지 않는 오류 해결
+* Changes
+    * 설문 트리거 정책 변경
+        * 초기 기간이 지나면 곧바로 알림이 전달되고, 이 후 정해진 시간 간격으로 전달됨
+        * 만약 시간 단위를 일 (TimeUnit.DAYS)로 설정하면, 정확한 시간이 아닌 해당 일자를 의미
+            * 예) 현재 시간이 9월 2일 18시 일 때, 이틀 뒤 ```SurveyTime(value = 2, TimeUnit.DAYS)``` 는 9월 4일 00시를 의미.
+        * 정확하게 시간을 정하고 싶을 때는 TimeUnit.DAYS 보다 작은 시간 단위를 사용
+            * 예) 현재 시간이 9월 2일 18시 일 때, 48시간 후 ```SurveyTime(value = 48, TimeUnit.HOURS)```로 설정하면 9월 4일 18시를 의미. 
+        
+
 ### v2.0.6
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.6-debug.apk)
 * Bug fixes:
