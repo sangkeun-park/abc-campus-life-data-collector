@@ -1,6 +1,14 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.8
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.8-debug.apk)
+* Bug fixes:
+    * 재부팅 시 설문 전달 시간이 제대로 맞춰지지 않는 오류 해결
+* Changes:
+    * 다른 기기에서 이미 실험 중인 계정으로 접속했을 시 설문 전달 시간 등을 동기화 처리함
+    * 또한, 사용자 권한이 필요한 데이터를 제공하기로 했으면 권한 설정을 알리는 안내 메시지를 출력
+
 ### v2.0.7
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.7-debug.apk)
 * Bug fixes:
