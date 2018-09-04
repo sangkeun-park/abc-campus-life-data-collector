@@ -4,8 +4,8 @@
   "instruction": "알림 도착 시간 이후 5분 이내의 상황을 기준으로 아래에 응답해주세요.",
   "policy": {
     "initialDelay": {
-      "value": 1,
-      "unit": "HOURS"
+      "value": 5,
+      "unit": "MINUTES"
     },
     "daysOfWeek": [
       "MONDAY",
@@ -27,7 +27,7 @@
       }
     },
     "minInterval": {
-      "value": 60,
+      "value": 15,
       "unit": "MINUTES"
     },
     "flexInterval": {
