@@ -1,6 +1,15 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.8.4
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.4-debug.apk)
+* Known issues:
+    * 설문 간 시간 간격이 너무 짧으면 제대로 전달되지 않을 수 있음
+        * AlarmManager.setExactAndAllowWhileIdle() 사용 시, 시스템에 따라 Rescheduling 을 할 수도 있음.
+* Changes:
+    * 실험 참여 이후 앱 권한이 차단되었을 시 설정할 수 있는 Snackbar 추가.  
+
+
 ### v2.0.8.3
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.3-debug.apk)
 * Bug fixes:
