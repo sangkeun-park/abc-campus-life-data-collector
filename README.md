@@ -1,6 +1,13 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.8.1
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.1-debug.apk)
+* Bug Fixes
+    * gRPC Proto 내에 오타가 있어서 일부 데이터가 업로드 되지 않았던 것을 수정
+        * Media: mimetype -> mime_type
+        * Wifi: frequecy -> frequency 
+
 ### v2.0.8
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.8-debug.apk)
 * Bug fixes:

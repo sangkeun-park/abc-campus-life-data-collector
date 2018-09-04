@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug/kaist.iclab.abc-v2.0.8-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/kaist.iclab.abc-v2.0.8.1-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/debug/output.json" afterDir="false" />
@@ -17,7 +17,7 @@
     <session id="52789509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="4" />
@@ -26,9 +26,9 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,15 +50,15 @@
         <counts>
           <entry key="MD" value="2" />
           <entry key="json" value="2611" />
-          <entry key="md" value="8447" />
-          <entry key="txt" value="565" />
+          <entry key="md" value="8683" />
+          <entry key="txt" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="2611" />
-          <entry key="Markdown" value="8449" />
-          <entry key="PLAIN_TEXT" value="565" />
+          <entry key="Markdown" value="8685" />
+          <entry key="PLAIN_TEXT" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -72,22 +72,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="133">
+                <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
           <provider editor-type-id="Gfm" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Control2.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -165,9 +156,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535977567448" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536019649591" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -275,7 +266,8 @@
       <workItem from="1534900028527" duration="28546000" />
       <workItem from="1535373892566" duration="9131000" />
       <workItem from="1535780766098" duration="5403000" />
-      <workItem from="1535977426889" duration="140000" />
+      <workItem from="1535977426889" duration="1415000" />
+      <workItem from="1536019473399" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.0.3">
       <created>1533561711886</created>
@@ -592,17 +584,24 @@
       <option name="project" value="LOCAL" />
       <updated>1535876264491</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="v2.0.8">
+      <created>1535977580503</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1535977580503</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69476000" />
+    <option name="totallyTimeSpent" value="70927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1881663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -663,7 +662,8 @@
     <MESSAGE value="v2.0.6" />
     <MESSAGE value="v2.0.6 - Add Korean" />
     <MESSAGE value="v2.0.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.0.7" />
+    <MESSAGE value="v2.0.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0.8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
@@ -772,23 +772,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Control2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
     </entry>
   </component>
 </project>
