@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug/kaist.iclab.abc-v2.0.8.2-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/kaist.iclab.abc-v2.0.8.3-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/debug/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveys/180902-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/surveys/180902-Debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveys/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/surveys/test.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +35,14 @@
         <counts>
           <entry key="MD" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="json" value="39" />
+          <entry key="json" value="40" />
           <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="4" />
-          <entry key="JSON" value="39" />
+          <entry key="JSON" value="40" />
           <entry key="Markdown" value="6" />
         </counts>
       </usages-collector>
@@ -52,15 +50,15 @@
         <counts>
           <entry key="MD" value="2" />
           <entry key="json" value="2621" />
-          <entry key="md" value="8812" />
-          <entry key="txt" value="568" />
+          <entry key="md" value="8824" />
+          <entry key="txt" value="570" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="2621" />
-          <entry key="Markdown" value="8814" />
-          <entry key="PLAIN_TEXT" value="568" />
+          <entry key="Markdown" value="8826" />
+          <entry key="PLAIN_TEXT" value="570" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -74,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <first_editor relative-caret-position="133">
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -210,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536033665033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536036446430" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -287,7 +285,7 @@
       <workItem from="1535373892566" duration="9131000" />
       <workItem from="1535780766098" duration="5403000" />
       <workItem from="1535977426889" duration="1415000" />
-      <workItem from="1536019473399" duration="2317000" />
+      <workItem from="1536019473399" duration="3137000" />
     </task>
     <task id="LOCAL-00001" summary="v 1.0.3">
       <created>1533561711886</created>
@@ -618,11 +616,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536019657591</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="v2.0.8.2">
+      <created>1536033671504</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1536033671504</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73068000" />
+    <option name="totallyTimeSpent" value="73888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -665,7 +670,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add guidelines" />
     <MESSAGE value="v 1.0.3-Hotfix and modify guidelines" />
     <MESSAGE value="v 2.0.0" />
     <MESSAGE value="v 2.0.0 + change survey message" />
@@ -690,7 +694,8 @@
     <MESSAGE value="v2.0.7" />
     <MESSAGE value="v2.0.8" />
     <MESSAGE value="v2.0.8.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.0.8.1" />
+    <MESSAGE value="v2.0.8.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0.8.2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
@@ -806,11 +811,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/debug/output.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="227" selection-start-column="227" selection-end-column="227" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <first_editor relative-caret-position="133">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>

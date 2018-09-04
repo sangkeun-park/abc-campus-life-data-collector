@@ -1,6 +1,11 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+### v2.0.8.3
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.3-debug.apk)
+* Bug fixes:
+    * 설문이 정확한 시간에 제대로 예약이 되지 않는 오류 재수정...
+
 ### v2.0.8.2
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.2-debug.apk)
 * Bug fixes:
