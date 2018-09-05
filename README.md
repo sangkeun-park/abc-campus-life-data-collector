@@ -1,7 +1,16 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+## v2.0.9
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.9-debug.apk)
+* Bug fixes:
+    * 설문 이벤트에 알림이 취소 또는 예약이 제대로 되지 않는 문제 해결
+* Changes:
+    * 접근성 및 알림 접근 등을 사용하기 위핸 설정 시에 안내 메시지를 띄우도록 함.
 
+## v2.0.8.6
+* Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.6-debug.apk)
+    * 추가 버그 수정
 
 ### v2.0.8.5
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.8.5-debug.apk)
