@@ -1,7 +1,7 @@
 {
-  "title": "일어날 시간입니다.",
-  "message": "일어나서 1분간 움직여주세요.",
-  "instruction": "알림 도착 시간 이후 5분 이내의 상황을 기준으로 아래에 응답해주세요.",
+  "title": "Lorem Ipsum",
+  "message": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "instruction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "policy": {
     "initialDelay": {
       "value": 14,
@@ -46,41 +46,33 @@
     {
       "type": "SINGLE_CHOICE",
       "shouldAnswers": true,
-      "text": "일어나서 1분간 움직이시겠습니까?",
+      "text": "Single Choice",
       "options": [
-        "예",
-        "아니오"
+        "Yes",
+        "No"
       ],
       "altText": "알림 도착 시간 이후 5분 이내에 일어나서 1분간 움직이셨습니까?"
     },
     {
-      "type": "SINGLE_CHOICE",
+      "type": "MULTIPLE_CHOICES",
       "shouldAnswers": true,
-      "text": "알림이 도착한 것을 인지했습니까?",
+      "text": "Multiple Choice",
       "options": [
-        "예",
-        "아니오"
+        "One",
+        "Two",
+        "Three"
       ],
-      "altText": "알림이 도착한 것을 5분 이내에 인지하셨습니까?"
-    },
-    {
-      "type": "SINGLE_CHOICE",
-      "shouldAnswers": true,
-      "text": "일어날 수 있는 상황입니까?",
-      "options": [
-        "예", "아니오"
-      ],
-      "altText": "알림 도착 시간 이후 5분 이내에 일어날 수 있는 상황이었습니까?"
+      "altText": "알림 도착 시간 이후 5분 이내에 일어나서 1분간 움직이셨습니까?"
     },
     {
       "type": "SINGLE_TEXT",
       "shouldAnswers": true,
-      "text": "위 질문들에 대하여 왜 그렇게 응답하셨는지 자세하게 설명해주십시오."
+      "text": "Free Text"
     },
     {
       "type": "MULTIPLE_TEXTS",
       "shouldAnswers": true,
-      "text": "현재 상황에 대하여 설명해주십시오.",
+      "text": "Multiple Free Texts on a Certain Topic",
       "options": [
         "어디에 계신가요? (예. 창의관 강의실, 회의실, 카페 등)",
         "무얼 하고 계신가요? (예. 논문 읽기, 회의 중 등)",
@@ -92,6 +84,19 @@
       "type": "SINGLE_TEXT",
       "shouldAnswers": false,
       "text":  "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
+    },
+    {
+      "type": "LIKERT",
+      "shouldAnswers": true,
+      "text": "Likert Scale",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "altText": "알림 도착 시간 이후 5분 이내에 일어나서 1분간 움직이셨습니까?"
     }
   ]
 }

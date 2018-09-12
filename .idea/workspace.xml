@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guide/privacy-policy.md" afterDir="false" />
+    <list default="true" id="ea71c5ce-f620-4742-aa50-c936dffa6d8b" name="Default Changelist" comment="Modify debug.json">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveys/Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/surveys/Debug.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,25 +15,25 @@
     <session id="52789509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="json" value="41" />
+          <entry key="json" value="43" />
           <entry key="md" value="5" />
           <entry key="privacy-policy" value="1" />
         </counts>
@@ -41,24 +41,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="4" />
-          <entry key="JSON" value="41" />
+          <entry key="JSON" value="43" />
           <entry key="Markdown" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="MD" value="2" />
-          <entry key="json" value="2624" />
+          <entry key="json" value="2787" />
           <entry key="md" value="9627" />
           <entry key="privacy-policy" value="3412" />
-          <entry key="txt" value="574" />
+          <entry key="txt" value="623" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="2624" />
+          <entry key="JSON" value="2787" />
           <entry key="Markdown" value="13041" />
-          <entry key="PLAIN_TEXT" value="574" />
+          <entry key="PLAIN_TEXT" value="623" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -70,33 +70,52 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="Gfm" />
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="57">
-                <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+                <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+          <provider editor-type-id="Gfm" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guide/privacy-policy.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="228">
-                <caret line="8" lean-forward="true" selection-end-line="52" selection-end-column="123" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/surveys/Debug.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Control2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-741">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guide/privacy-policy.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="266">
+                <caret line="9" column="177" lean-forward="true" selection-start-line="9" selection-start-column="177" selection-end-line="9" selection-end-column="177" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="Gfm" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/surveys/test.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="627">
               <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
             </state>
           </provider>
@@ -150,12 +169,12 @@
         <option value="$PROJECT_DIR$/surveys/Yonsei-FitMoney.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-Control2.json" />
         <option value="$PROJECT_DIR$/surveys/Yonsei-Worker.json" />
-        <option value="$PROJECT_DIR$/surveys/Debug.json" />
         <option value="$PROJECT_DIR$/surveys/test.json" />
         <option value="$PROJECT_DIR$/surveys/180902-Debug.json" />
         <option value="D:/Library/Desktop/180902-Debug.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/guide/privacy-policy" />
+        <option value="$PROJECT_DIR$/surveys/Debug.json" />
       </list>
     </option>
   </component>
@@ -179,7 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -193,11 +212,16 @@
               <item name="abc-campus-life-data-collector" type="462c0819:PsiDirectoryNode" />
               <item name="guide" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="abc-campus-life-data-collector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abc-campus-life-data-collector" type="462c0819:PsiDirectoryNode" />
+              <item name="surveys" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,14 +306,8 @@
       <workItem from="1535977426889" duration="1415000" />
       <workItem from="1536019473399" duration="11522000" />
       <workItem from="1536285282934" duration="8000" />
-      <workItem from="1536651550315" duration="2567000" />
-    </task>
-    <task id="LOCAL-00006" summary="v 2.0.0 + change survey message">
-      <created>1534340818089</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1534340818089</updated>
+      <workItem from="1536651550315" duration="3206000" />
+      <workItem from="1536737627467" duration="528000" />
     </task>
     <task id="LOCAL-00007" summary="Add Yonsei's surveys">
       <created>1534347114976</created>
@@ -627,23 +645,31 @@
       <option name="project" value="LOCAL" />
       <updated>1536142495874</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Add privacy policy">
+      <created>1536654144467</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654144468</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84848000" />
+    <option name="totallyTimeSpent" value="86015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -674,8 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Yonsei's debug surveys" />
-    <MESSAGE value="v2.0.1" />
     <MESSAGE value="v2.0.2" />
     <MESSAGE value="Modify survey" />
     <MESSAGE value="Fixes Typos" />
@@ -699,7 +723,9 @@
     <MESSAGE value="v2.0.8.4" />
     <MESSAGE value="v2.0.8.5" />
     <MESSAGE value="v2.0.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.0.9" />
+    <MESSAGE value="Add privacy policy" />
+    <MESSAGE value="Modify debug.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify debug.json" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/howto/esm.jpg">
@@ -712,7 +738,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/howto/howto.MD">
-      <provider editor-type-id="Gfm" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -721,6 +746,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="Gfm" />
     </entry>
     <entry file="file://$PROJECT_DIR$/release/output.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -773,13 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/surveys/Debug.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/surveys/Yonsei-FitMoney.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -791,13 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="6" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Control2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -822,20 +834,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="Gfm" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/surveys/test.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="627">
           <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
         </state>
       </provider>
@@ -843,10 +844,36 @@
     <entry file="file://$PROJECT_DIR$/guide/privacy-policy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="228">
-            <caret line="8" lean-forward="true" selection-end-line="52" selection-end-column="123" />
+          <first_editor relative-caret-position="266">
+            <caret line="9" column="177" lean-forward="true" selection-start-line="9" selection-start-column="177" selection-end-line="9" selection-end-column="177" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveys/Yonsei-Control2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surveys/Debug.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
         </state>
       </provider>
     </entry>
