@@ -1,6 +1,13 @@
 # ABC Campus Life Data Collector
 
 ## Versions
+## < v2.1.0
+Now, we release official version of our app in the Google Play Store: [Link](https://play.google.com/store/apps/details?id=kaist.iclab.abc)
+
+The versions below is not maintained anymore.
+
+I will open source codes ASAP.  
+
 ## v2.0.9
 * Apks: [Download](./debug/kaist.iclab.abc-v2.0.9-debug.apk)
 * Bug fixes:

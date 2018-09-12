@@ -34,8 +34,14 @@
       "value": 0,
       "unit": "MINUTES"
     },
-    "triggerEvents": ["ENTER_STILL", "ENTER_IN_VEHICLE"] ,
-    "cancelEvents": ["EXIT_STILL", "EXIT_IN_VEHICLE"],
+    "triggerEvents": [
+      "ENTER_STILL",
+      "ENTER_IN_VEHICLE"
+    ],
+    "cancelEvents": [
+      "EXIT_STILL",
+      "EXIT_IN_VEHICLE"
+    ],
     "timeout": {
       "value": 5,
       "unit": "MINUTES"
@@ -83,7 +89,7 @@
     {
       "type": "SINGLE_TEXT",
       "shouldAnswers": false,
-      "text":  "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
+      "text": "지금으로부터 지난 1시간 내에 이미 일어나신 적이 있었나요?"
     },
     {
       "type": "LIKERT",
